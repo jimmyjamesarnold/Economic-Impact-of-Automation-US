@@ -7,6 +7,7 @@ Until I figure out how to get Rmd working in github, there's a working version o
 https://data.world/jimmyjarnold/the-robots-are-coming-who-where-and-how-much
 
 ![JobMap](https://github.com/jimmyjamesarnold/Economic-Impact-of-Automation-US/blob/master/choropleth-Percent-Jobs-Automation-US.png)
+![JobList](https://github.com/jimmyjamesarnold/Economic-Impact-of-Automation-US/blob/master/Annual%20Income%20Displacement%20by%20Location.JPG)
 
 Jobs in retail and service sectors will displace the most workers. 
 
@@ -16,7 +17,7 @@ Managers and meds will be the highest paying jobs with lowest risk of automation
 
 ![LowRisk](https://github.com/jimmyjamesarnold/Economic-Impact-of-Automation-US/blob/master/Low%20Risk%20High%20Salary.JPG)
 
-It appears that automation will disproportionately affect jobs with lower median annual incomes.
+Automation will disproportionately affect jobs with lower median annual incomes.
 
 ![LowRisk](https://github.com/jimmyjamesarnold/Economic-Impact-of-Automation-US/blob/master/Automation%20Risk%20by%20Median%20Annual%20Income.JPG)
 Risk groups:
